@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "Maximo",
+    "email": "maximo@gmail.com",
+    "pass": "$2b$12$kAnDdNJMeGEfCBt7ha30cOARBakiaGwCqM/uS8iQOTP6hAo/YFYP.",
+    "avatar": "avatar-1612473450834.jpg",
+    "rol" : "user"
+  },
+  {
+    "id": 2,
+    "username": "Eric",
+    "email": "menaericdaniel@gmail.com",
+    "pass": "$2b$12$nAPtDtcaPtxcUMIz8lwge.mXd5cBTpG96gcarRSxA84ub4iNXHmWa",
+    "avatar": "avatar-1612474444981.jpg",
+    "rol" : "admin"
+  }
+]
